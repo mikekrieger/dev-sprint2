@@ -1,2 +1,6 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Michael Krieger
+
+1. A registration page
+2. A contact us box page
+3. A contest entry form
